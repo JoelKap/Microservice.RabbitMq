@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace Comms.RabbitMq.Consumer
 { 
-    public class GreetingConsumer : IConsumer<Greeting>, IGreetingsConsumer
+    public class GreetingConsumer : IConsumer<Greeting>, IGreetingConsumer
     {
         public async Task Consume(ConsumeContext<Greeting> context)
         {

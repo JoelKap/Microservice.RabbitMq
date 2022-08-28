@@ -15,25 +15,6 @@ namespace Comms.RabbitMq.Consumer
                  epx.Consumer<GreetingConsumer>();
              });
 
-            // await handle.StopAsync();
-
-            //var bus = Bus.Factory.CreateUsingRabbitMq(cfg =>
-            //{
-            //    var host = cfg.Host(new Uri(RabbitMqConsts.RabbitMqUri), h =>
-            //     {
-            //         h.Username(RabbitMqConsts.UserName);
-            //         h.Password(RabbitMqConsts.Password);
-            //     });
-
-            //    cfg.ReceiveEndpoint(RabbitMqConsts.GreetingQueue, ep =>
-            //    {
-            //        //ep.PrefetchCount = 16;
-            //        //ep.UseMessageRetry(r => r.Interval(5, 100));
-            //        //ep.AutoDelete = true;
-            //        ep.Consumer<GreetingsConsumer>();
-            //    });
-            //});
-
             Console.WriteLine("Listening to your name... Please enter to exit");
             Console.ReadKey();
             await bus.StopAsync();

@@ -1,7 +1,8 @@
 ﻿namespace Comms.RabbitMq.Consumer
 {
-    public interface IGreetingsConsumer
+    public interface IGreetingConsumer
     {
         string FindAndReplaceOutputMessage(string message);
     }
 }
+ 
