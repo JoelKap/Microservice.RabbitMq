@@ -14,3 +14,4 @@ C:\source\_Assessements\Wonga\Comms.RabbitMq\Comms.RabbitMq.Message\obj\Debug\ne
 C:\source\_Assessements\Wonga\Comms.RabbitMq\Comms.RabbitMq.Message\obj\Debug\netcoreapp3.1\Comms.RabbitMq.Message.csproj.CoreCompileInputs.cache
 C:\source\_Assessements\Wonga\Comms.RabbitMq\Comms.RabbitMq.Message\obj\Debug\netcoreapp3.1\Comms.RabbitMq.Message.dll
 C:\source\_Assessements\Wonga\Comms.RabbitMq\Comms.RabbitMq.Message\obj\Debug\netcoreapp3.1\Comms.RabbitMq.Message.pdb
+C:\source\_Assessements\Wonga\Comms.RabbitMq\Comms.RabbitMq.Message\obj\Debug\netcoreapp3.1\Comms.RabbitMq.Message.csproj.AssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\source\_Assessements\Wonga\Comms.RabbitMq\Comms.RabbitMq\bin\Release\netcoreapp3.1\Comms.RabbitMq.deps.json
+C:\source\_Assessements\Wonga\Comms.RabbitMq\Comms.RabbitMq\bin\Release\netcoreapp3.1\Comms.RabbitMq.dll
+C:\source\_Assessements\Wonga\Comms.RabbitMq\Comms.RabbitMq\bin\Release\netcoreapp3.1\Comms.RabbitMq.pdb
+C:\source\_Assessements\Wonga\Comms.RabbitMq\Comms.RabbitMq\bin\Release\netcoreapp3.1\Comms.RabbitMq.Message.dll
+C:\source\_Assessements\Wonga\Comms.RabbitMq\Comms.RabbitMq\bin\Release\netcoreapp3.1\Comms.RabbitMq.Message.pdb
+C:\source\_Assessements\Wonga\Comms.RabbitMq\Comms.RabbitMq\obj\Release\netcoreapp3.1\Comms.RabbitMq.csproj.AssemblyReference.cache
+C:\source\_Assessements\Wonga\Comms.RabbitMq\Comms.RabbitMq\obj\Release\netcoreapp3.1\Comms.RabbitMq.AssemblyInfoInputs.cache
+C:\source\_Assessements\Wonga\Comms.RabbitMq\Comms.RabbitMq\obj\Release\netcoreapp3.1\Comms.RabbitMq.AssemblyInfo.cs
+C:\source\_Assessements\Wonga\Comms.RabbitMq\Comms.RabbitMq\obj\Release\netcoreapp3.1\Comms.RabbitMq.csproj.CoreCompileInputs.cache
+C:\source\_Assessements\Wonga\Comms.RabbitMq\Comms.RabbitMq\obj\Release\netcoreapp3.1\Comms.RabbitMq.csproj.CopyComplete
+C:\source\_Assessements\Wonga\Comms.RabbitMq\Comms.RabbitMq\obj\Release\netcoreapp3.1\Comms.RabbitMq.dll
+C:\source\_Assessements\Wonga\Comms.RabbitMq\Comms.RabbitMq\obj\Release\netcoreapp3.1\Comms.RabbitMq.pdb
