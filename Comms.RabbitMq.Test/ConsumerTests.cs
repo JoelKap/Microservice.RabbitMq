@@ -26,7 +26,7 @@ namespace Comms.RabbitMq.Test
         {
             //Arrange
             var harness = new InMemoryTestHarness();
-            var consumerHarness = harness.Consumer<GreetingsConsumer>();
+            var consumerHarness = harness.Consumer<GreetingConsumer>();
 
             await harness.Start();
             try 

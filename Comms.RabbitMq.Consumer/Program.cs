@@ -12,7 +12,7 @@ namespace Comms.RabbitMq.Consumer
 
             var handle = bus.ConnectReceiveEndpoint(RabbitMqConsts.GreetingQueue, epx =>
              {
-                 epx.Consumer<GreetingsConsumer>();
+                 epx.Consumer<GreetingConsumer>();
              });
 
             // await handle.StopAsync();
