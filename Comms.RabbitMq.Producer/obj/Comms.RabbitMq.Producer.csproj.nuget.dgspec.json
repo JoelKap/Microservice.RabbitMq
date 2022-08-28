@@ -1,0 +1,192 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\source\\_Assessements\\Wonga\\Comms.RabbitMq\\Comms.RabbitMq.Producer\\Comms.RabbitMq.Producer.csproj": {}
+  },
+  "projects": {
+    "C:\\source\\_Assessements\\Wonga\\Comms.RabbitMq\\Comms.RabbitMq.Message\\Comms.RabbitMq.Message.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\source\\_Assessements\\Wonga\\Comms.RabbitMq\\Comms.RabbitMq.Message\\Comms.RabbitMq.Message.csproj",
+        "projectName": "Comms.RabbitMq.Message",
+        "projectPath": "C:\\source\\_Assessements\\Wonga\\Comms.RabbitMq\\Comms.RabbitMq.Message\\Comms.RabbitMq.Message.csproj",
+        "packagesPath": "C:\\Users\\joelk\\.nuget\\packages\\",
+        "outputPath": "C:\\source\\_Assessements\\Wonga\\Comms.RabbitMq\\Comms.RabbitMq.Message\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\joelk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\source\\_Assessements\\Wonga\\Comms.RabbitMq\\Comms.RabbitMq.Producer\\Comms.RabbitMq.Producer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\source\\_Assessements\\Wonga\\Comms.RabbitMq\\Comms.RabbitMq.Producer\\Comms.RabbitMq.Producer.csproj",
+        "projectName": "Comms.RabbitMq.Producer",
+        "projectPath": "C:\\source\\_Assessements\\Wonga\\Comms.RabbitMq\\Comms.RabbitMq.Producer\\Comms.RabbitMq.Producer.csproj",
+        "packagesPath": "C:\\Users\\joelk\\.nuget\\packages\\",
+        "outputPath": "C:\\source\\_Assessements\\Wonga\\Comms.RabbitMq\\Comms.RabbitMq.Producer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\joelk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\source\\_Assessements\\Wonga\\Comms.RabbitMq\\Comms.RabbitMq\\Comms.RabbitMq.csproj": {
+                "projectPath": "C:\\source\\_Assessements\\Wonga\\Comms.RabbitMq\\Comms.RabbitMq\\Comms.RabbitMq.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\source\\_Assessements\\Wonga\\Comms.RabbitMq\\Comms.RabbitMq\\Comms.RabbitMq.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\source\\_Assessements\\Wonga\\Comms.RabbitMq\\Comms.RabbitMq\\Comms.RabbitMq.csproj",
+        "projectName": "Comms.RabbitMq",
+        "projectPath": "C:\\source\\_Assessements\\Wonga\\Comms.RabbitMq\\Comms.RabbitMq\\Comms.RabbitMq.csproj",
+        "packagesPath": "C:\\Users\\joelk\\.nuget\\packages\\",
+        "outputPath": "C:\\source\\_Assessements\\Wonga\\Comms.RabbitMq\\Comms.RabbitMq\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\joelk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\source\\_Assessements\\Wonga\\Comms.RabbitMq\\Comms.RabbitMq.Message\\Comms.RabbitMq.Message.csproj": {
+                "projectPath": "C:\\source\\_Assessements\\Wonga\\Comms.RabbitMq\\Comms.RabbitMq.Message\\Comms.RabbitMq.Message.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MassTransit": {
+              "target": "Package",
+              "version": "[6.2.5, )"
+            },
+            "MassTransit.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.5, )"
+            },
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[6.2.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

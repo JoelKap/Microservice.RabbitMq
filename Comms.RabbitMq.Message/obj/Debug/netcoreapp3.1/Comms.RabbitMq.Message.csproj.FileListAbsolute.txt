@@ -1,0 +1,16 @@
+C:\source\_Assessements\Wonga\Comms.RabbitMq\Comms.RabbitMq\Comms.RabbitMq.Message\bin\Debug\netcoreapp3.1\Comms.RabbitMq.Message.deps.json
+C:\source\_Assessements\Wonga\Comms.RabbitMq\Comms.RabbitMq\Comms.RabbitMq.Message\bin\Debug\netcoreapp3.1\Comms.RabbitMq.Message.dll
+C:\source\_Assessements\Wonga\Comms.RabbitMq\Comms.RabbitMq\Comms.RabbitMq.Message\bin\Debug\netcoreapp3.1\Comms.RabbitMq.Message.pdb
+C:\source\_Assessements\Wonga\Comms.RabbitMq\Comms.RabbitMq\Comms.RabbitMq.Message\obj\Debug\netcoreapp3.1\Comms.RabbitMq.Message.AssemblyInfoInputs.cache
+C:\source\_Assessements\Wonga\Comms.RabbitMq\Comms.RabbitMq\Comms.RabbitMq.Message\obj\Debug\netcoreapp3.1\Comms.RabbitMq.Message.AssemblyInfo.cs
+C:\source\_Assessements\Wonga\Comms.RabbitMq\Comms.RabbitMq\Comms.RabbitMq.Message\obj\Debug\netcoreapp3.1\Comms.RabbitMq.Message.csproj.CoreCompileInputs.cache
+C:\source\_Assessements\Wonga\Comms.RabbitMq\Comms.RabbitMq\Comms.RabbitMq.Message\obj\Debug\netcoreapp3.1\Comms.RabbitMq.Message.dll
+C:\source\_Assessements\Wonga\Comms.RabbitMq\Comms.RabbitMq\Comms.RabbitMq.Message\obj\Debug\netcoreapp3.1\Comms.RabbitMq.Message.pdb
+C:\source\_Assessements\Wonga\Comms.RabbitMq\Comms.RabbitMq.Message\bin\Debug\netcoreapp3.1\Comms.RabbitMq.Message.deps.json
+C:\source\_Assessements\Wonga\Comms.RabbitMq\Comms.RabbitMq.Message\bin\Debug\netcoreapp3.1\Comms.RabbitMq.Message.dll
+C:\source\_Assessements\Wonga\Comms.RabbitMq\Comms.RabbitMq.Message\bin\Debug\netcoreapp3.1\Comms.RabbitMq.Message.pdb
+C:\source\_Assessements\Wonga\Comms.RabbitMq\Comms.RabbitMq.Message\obj\Debug\netcoreapp3.1\Comms.RabbitMq.Message.AssemblyInfoInputs.cache
+C:\source\_Assessements\Wonga\Comms.RabbitMq\Comms.RabbitMq.Message\obj\Debug\netcoreapp3.1\Comms.RabbitMq.Message.AssemblyInfo.cs
+C:\source\_Assessements\Wonga\Comms.RabbitMq\Comms.RabbitMq.Message\obj\Debug\netcoreapp3.1\Comms.RabbitMq.Message.csproj.CoreCompileInputs.cache
+C:\source\_Assessements\Wonga\Comms.RabbitMq\Comms.RabbitMq.Message\obj\Debug\netcoreapp3.1\Comms.RabbitMq.Message.dll
+C:\source\_Assessements\Wonga\Comms.RabbitMq\Comms.RabbitMq.Message\obj\Debug\netcoreapp3.1\Comms.RabbitMq.Message.pdb
