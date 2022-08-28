@@ -64,29 +64,5 @@ namespace Comms.RabbitMq.Test
                 await harness.Stop();
             }
         }
-         
-        //[Test]
-        //public async Task DoStuff()
-        //{
-        //    var harness = new InMemoryTestHarness();
-        //    var services = new ServiceCollection();
-        //    var serviceProvider = services.BuildServiceProvider();
-
-        //    var consumerHarness = harness.Consumer<GreetingsConsumer>(() =>
-        //    {
-        //        var consumer = serviceProvider.GetRequiredService<GreetingsConsumer>();
-        //        return consumer;
-        //    });
-
-        //    await harness.Start();
-        //    try
-        //    {
-
-        //    }
-        //    finally
-        //    {
-        //        await harness.Stop();
-        //    }
-        //}
     }
 }
