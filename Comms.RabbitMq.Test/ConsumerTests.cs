@@ -1,4 +1,4 @@
-using Comms.RabbitMq.Consumer.Response;
+using Comms.RabbitMq.Consumer;
 using Comms.RabbitMq.Message;
 using MassTransit;
 using MassTransit.Testing;
@@ -6,16 +6,11 @@ using NUnit.Framework;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Comms.RabbitMq.Test2
+namespace Comms.RabbitMq.Test
 {
-    [TestFixture]
+    [TestFixture] 
     public class Tests
     {
-        [SetUp]
-        public void Setup()
-        {
-        }
-
         [Test]
         public async Task SHOULD_START_AND_STOP_THE_TEST_HARNESS()
         {
@@ -69,5 +64,29 @@ namespace Comms.RabbitMq.Test2
                 await harness.Stop();
             }
         }
+         
+        //[Test]
+        //public async Task DoStuff()
+        //{
+        //    var harness = new InMemoryTestHarness();
+        //    var services = new ServiceCollection();
+        //    var serviceProvider = services.BuildServiceProvider();
+
+        //    var consumerHarness = harness.Consumer<GreetingsConsumer>(() =>
+        //    {
+        //        var consumer = serviceProvider.GetRequiredService<GreetingsConsumer>();
+        //        return consumer;
+        //    });
+
+        //    await harness.Start();
+        //    try
+        //    {
+
+        //    }
+        //    finally
+        //    {
+        //        await harness.Stop();
+        //    }
+        //}
     }
 }

@@ -1,5 +1,4 @@
-﻿using Comms.RabbitMq.Consumer.Response;
-using MassTransit;
+﻿using MassTransit;
 using System;
 using System.Threading.Tasks;
 
